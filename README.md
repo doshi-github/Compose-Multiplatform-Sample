@@ -1,6 +1,6 @@
-# Kotlin Multiplatform app template
+# Compose Multiplatform Sample
 
-This is a basic Kotlin Multiplatform app template for Android and iOS. It includes shared business logic and data handling, and a shared UI implementation using Compose Multiplatform.
+This is a basic Kotlin Multiplatform app for Android and iOS. It includes shared business logic and data handling, and a shared UI implementation using Compose Multiplatform.
 
 > The template is also available [with native UI written in Jetpack Compose and SwiftUI](https://github.com/kotlin/KMP-App-Template-Native).
 >
@@ -10,7 +10,7 @@ This is a basic Kotlin Multiplatform app template for Android and iOS. It includ
 
 ### Technologies
 
-The data displayed by the app is from [The Metropolitan Museum of Art Collection API](https://metmuseum.github.io/).
+The data displayed by the app is by using API created using Hasura and connecting it with MongoDB Atlas cloud database.
 
 The app uses the following multiplatform dependencies in its implementation:
 
